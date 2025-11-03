@@ -39,17 +39,6 @@
   - Estimate Total Cost = [ 2* Shipping Price + Daily renting rate x Number of days ]
   - Pay & Rent
 
-## UI Design/ Layout:
-
-[Basic planned layout of pages](https://framer.com/projects/Rentals--7zKPZS5bnrThwsvXZGFN-9r5fz) 
-
-[Figma file for design](https://www.figma.com/file/Ar1zul3zdmNfNt729D9U6o/RentUI?node-id=46%3A2)
-![Desing prototype](https://github.com/AnjanaMA/atRentals/blob/main/RentUI.gif)
-
-## Back-end Plan:
-
-![Backend Image](https://github.com/CoolCoderz/atRentals/blob/main/Backend/temp_assets/aRentalsBackend.png)
-
 ## Installation and Execution:
 
 ### Requirements
